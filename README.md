@@ -38,7 +38,7 @@ Welcome my Github! Here i share projects that enrich my learning and prepare me 
         <br>AWS
         </td> -->
         <td align="center" width="96">
-            <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="icon" width="65" height="65" />
+             <img src="https://skillicons.dev/icons?i=C" width="48" height="48" alt="C" />
         <br>C
         </td>
         <td align="center" width="96">
