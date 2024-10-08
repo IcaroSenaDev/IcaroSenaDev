@@ -106,5 +106,3 @@ Welcome my Github! Here i share projects that enrich my learning and prepare me 
 <p align="center">
 <a href="https://gist.github.com/IcaroSenaDev"><img src="https://profile-counter.glitch.me/{IcaroSenaDev}/count.svg" alt="IcaroSenaDev :: Visitor's Count" /></a>
 </p>
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
