@@ -89,13 +89,13 @@ Welcome my Github! Here i share projects that enrich my learning and prepare me 
 </div>
 
 <p align="center">
-
-<a href="https://github.com/IcaroSenaDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=IcaroSenaDev&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Icaro's github-readme-stats"/></a>
-<a href="https://github.com/IcaroSenaDev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=IcaroSenaDev&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Icaro's github-readme-streak-stats"/></a>
-
+    <a href="https://github.com/IcaroSenaDev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=IcaroSenaDev&theme=nord&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@IcaroSenaDev's github-readme-stats"/></a>
+    <a href="https://github.com/IcaroSenaDev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=IcaroSenaDev&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@IcaroSenaDev"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=IcaroSenaDev&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Icaro's wakatime stats"/></a>
-<a href="https://github.com/IcaroSenaDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=IcaroSenaDev&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Icaro's trophy stats"/></a>
+    <a href="https://github.com/IcaroSenaDev/IcaroSenaDev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSenaDev&layout=compact&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm,awesome-nord-theme&theme=nord&hide_border=true&" width = "38%" alt="IcaroSenaDev's GitHub Stats" />
+    </a>
+    <a href="https://github.com/IcaroSenaDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=IcaroSenaDev&theme=nord&no-frame=true&column=4&row=2"  width="48%" alt="@IcaroSenaDev's trophy stats"/></a>
 </p>
