@@ -102,7 +102,3 @@ Welcome my Github! Here i share projects that enrich my learning and prepare me 
 <p align="center">
  <a href="https://github.com/IcaroSenaDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=IcaroSenaDev&theme=nord&no-frame=true&column=4&row=2"  width="48%" alt="@IcaroSenaDev's trophy stats"/></a> stats"/></a>
 </p>
-
-<p align="center">
-<a href="https://gist.github.com/IcaroSenaDev"><img src="https://profile-counter.glitch.me/{IcaroSenaDev}/count.svg" alt="IcaroSenaDev :: Visitor's Count" /></a>
-</p>
