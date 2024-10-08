@@ -97,5 +97,8 @@ Welcome my Github! Here i share projects that enrich my learning and prepare me 
     <a href="https://github.com/IcaroSenaDev/IcaroSenaDev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSenaDev&layout=compact&langs_count=10&hide=vim%20script,makefile&exclude_repo=dotfiles,my-herbstluftwm-cfg,openbox,dwm,awesome-nord-theme&theme=nord&hide_border=true&" width = "38%" alt="IcaroSenaDev's GitHub Stats" />
     </a>
-    <a href="https://github.com/IcaroSenaDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=IcaroSenaDev&theme=nord&no-frame=true&column=4&row=2"  width="48%" alt="@IcaroSenaDev's trophy stats"/></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IcaroSenaDev?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=IcaroSenaDev&theme=nord&no-frame=true&column=4&row=2"  width="48%" alt="@IcaroSenaDev's trophy stats"/></a>
 </p>
